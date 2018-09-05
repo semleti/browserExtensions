@@ -1,0 +1,31 @@
+{
+	"manifest_version":2,
+	
+	"name":"Facebook adds remover",
+	"description":"Removes facebook adds",
+	"version":"1.0",
+	"background":{
+		"scripts":["background.js"]
+	},
+	"icons":{
+            "64":"icon.png"
+	},
+	"content_scripts":[
+		{
+			"matches":["*://*.facebook.com/*"],
+			"js":["myScript.js"],
+			"all_frames": true
+		},
+		{
+			"matches":["*://*.twitter.com/*"],
+			"js":["myScriptTwitter.js"],
+			"all_frames": true
+		}
+	],
+	"browser_action": {
+		"default_title": "Removes Facebook adds"
+	},
+	"permissions": [
+		"activeTab"
+	]
+}

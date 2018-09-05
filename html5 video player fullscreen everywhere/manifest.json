@@ -1,0 +1,26 @@
+{
+	"manifest_version":2,
+	
+	"name":"Iframe fullscreen everywhere",
+	"description":"enables Iframe fullscreen everywhere",
+	"version":"1.0",
+	"background":{
+		"scripts":["background.js"]
+	},
+	"icons":{
+		"64":"icon.png"
+	},
+	"content_scripts":[
+		{
+			"matches":["*://*/*"],
+			"js":["myScript.js"]
+		}
+	],
+	"browser_action": {
+		"default_title": "Iframe fullscreen"
+		//"default_popup": "popup.html"
+	},
+	"permissions": [
+		"activeTab"
+	]
+}

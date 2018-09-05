@@ -1,0 +1,30 @@
+thead, tbody { display: block; }
+
+
+tbody {
+    max-height: 200px;
+    min-height: 50px;
+    width: 760px;
+}
+
+tbody {
+    overflow-y: auto;    /* Trigger vertical scroll    */
+    overflow-x: hidden;  /* Hide the horizontal scroll */
+}
+
+details .details-body
+{
+    position: relative;
+    left: 10px;
+}
+
+.align-left
+{
+    text-align: left;
+}
+
+:invalid:not(form) {
+    box-shadow: none; /* FF */
+    outline: 0;       /* IE 10 */
+    background-color: red;
+}

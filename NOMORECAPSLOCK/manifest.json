@@ -1,0 +1,27 @@
+{
+	"manifest_version":2,
+	
+	"name":"NOMORECAPSLOCK",
+	"description":"removes CAPSLOCK text",
+	"version":"1.0",
+	"background":{
+		"scripts":["background.js"]
+	},
+	"icons":{
+		"64":"icon.png"
+	},
+	"content_scripts":[
+		{
+			"run_at": "document_end",
+			"matches":["*://*/*"],
+			"js":["myScript.js"],
+			"all_frames": true
+		}
+	],
+	"browser_action": {
+		"default_title": "Remove CAPSLOCK text"
+	},
+	"permissions": [
+		"activeTab"
+	]
+}

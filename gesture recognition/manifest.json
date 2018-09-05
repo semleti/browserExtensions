@@ -1,0 +1,21 @@
+{
+	"manifest_version":2,
+	
+	"name":"Gesture Recognition",
+	"description":"recognizes mouse gestures",
+	"version":"1.0",
+	"background":{
+		"scripts":["background.js"]
+	},
+	"icons":{
+		"64":"icon.png"
+	},
+	"options_page": "options.html",
+	"browser_action": {
+		"default_title": "Gesture recognition"
+		//"default_popup": "popup.html"
+	},
+	"permissions": [
+		"activeTab"
+	]
+}

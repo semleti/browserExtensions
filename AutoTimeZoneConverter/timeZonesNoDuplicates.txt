@@ -1,0 +1,303 @@
+A Alpha Time Zone	Military 60
+Acdt Australian Central Daylight Time Australia 630
+Cdt Central Daylight Time Australia 630
+Cdst Central Daylight Savings Time Australia 630
+Acst Australian Central Standard Time Australia 570
+Cst Central Standard Time	Australia 570
+Act Acre Time	SouthAmerica -300
+Acwst Australian Central Western Standard Time Australia 525
+Adt	Atlantic Daylight Time NorthAmericaAtlantic -180
+Haa Heure Avancée de l'Atlantique (French) NorthAmericaAtlantic -180
+Aedt Australian Eastern Daylight Time Pacific 660
+Edt Eastern Daylight Time Pacific 660
+Edst Eastern Daylight Saving Time	Australia Pacific 660
+Aest Australian Eastern Standard Time Australia 600
+Est Eastern Standard Time Australia 600
+Aet Australian Eastern Time Australia 600
+Aft	Afghanistan Time Asia 270
+Akdt Alaska Daylight Time NorthAmerica -480
+Adst Alaska Daylight Saving Time NorthAmerica -480
+Akst Alaska Standard Time NorthAmerica -540
+Almt Alma-Ata Time Asia 360
+Amst Amazon Summer Time SouthAmerica -180
+Amdt Armenia Daylight Time Asia 300
+Amt	Amazon Time	South America -240
+Anast Anadyr Summer Time Asia 720
+Anat Anadyr Time Asia 720
+Aqtt Aqtobe Time Asia 300
+Art	Argentina Time	AntarcticaSouthAmerica -180
+Ast	Atlantic Standard Time NorthAmericaAtlanticCaribbean -240
+Hna Heure Normale de l'Atlantique (French) NorthAmericaAtlanticCaribbean -240
+At Atlantic Time NorthAmericaAtlantic -180
+Awdt Australian Western Daylight Time Australia 540
+Wdt Western Daylight Time Australia 540
+Awst Australian Western Standard Time Australia 480
+Wst Western Standard Time Australia 480
+Wat Western Australia Time Australia 480
+Azost Azores Summer Time Atlantic 0
+Azodt Azores Daylight Time Atlantic 0
+Azot Azores Time Atlantic -60
+Azst Azerbaijan Summer Time	Asia 300
+Azt	Azerbaijan Time	Asia 240
+AoE	Anywhere on Earth Pacific -720
+B Bravo Time Zone Military 120
+Bnt	Brunei Darussalam Time Asia 480
+Bdt Brunei Time Asia 480
+Bot	Bolivia Time South America -240
+Brst Brasília Summer Time SouthAmerica -120
+Brt	Brasília Time SouthAmerica -180
+Bt Brazil Time SouthAmerica -180
+Bt Brazilian Time SouthAmerica -180
+Bst	Bangladesh Standard Time Asia 360
+Bdt British Daylight Time Europe 60
+Bdst British Daylight Saving Time Europe 60
+Btt	Bhutan Time	Asia 360
+C Charlie Time Zone	Military 180
+Cast Casey Time	Antarctica 480
+Cat	Central Africa Time	Africa 120
+Cct	Cocos Islands Time IndianOcean 390
+Cdst Central Daylight Saving Time NorthAmerica -300
+Nacdt North American Central Daylight Time NorthAmerica -300
+Hac Heure Avancée du Centre (French) NorthAmerica -300
+Cdt	Cuba Daylight Time Caribbean -240
+Cest Central European Summer Time EuropeAntarctica 120
+Cedt Central European Daylight Time EuropeAntarctica 120
+Ecst European Central Summer Time EuropeAntarctica 120
+Mesz Mitteleuropäische Sommerzeit (German) EuropeAntarctica 120
+Cet	Central European Time EuropeAfricaAntarctica 60
+Mez Mitteleuropäische Zeit (German) EuropeAfricaAntarctica 60
+Chadt Chatham Island Daylight Time Pacific 825
+Chast Chatham Island Standard Time Pacific 765
+Chost Choibalsan Summer Time Asia 540
+Chodt Choibalsan Daylight Time Asia 540
+Chodst Choibalsan Daylight Saving Time Asia 540
+Chot Choibalsan Time Asia 480
+Chut Chuuk Time	Pacific 600
+Cidst Cayman Islands Daylight Saving Time Caribbean -240
+Cist Cayman Islands Standard Time Caribbean -300
+Cit Cayman Islands Time	Caribbean -300
+Ckt	Cook Island Time Pacific -600
+Clst Chile Summer Time SouthAmericaAntarctica -180
+Cldt Chile Daylight Time SouthAmericaAntarctica -180
+Clt	Chile Standard Time SouthAmericaAntarctica -240
+Cot	Colombia Time SouthAmerica -300
+Nacst North American Central Standard Time NorthAmericaCentralAmerica -360
+Hnc Heure Normale du Centre (French) NorthAmericaCentralAmerica -360
+Cst	China Standard Time Asia 480
+Ct	Central Time NorthAmerica -300
+Cvt	Cape Verde Time	Africa -60
+Cxt	Christmas Island Time Australia 420
+ChSt Chamorro Standard Time Pacific 600
+Gst Guam Standard Time Pacific 600
+D Delta Time Zone Military 240
+Davt Davis Time	Antarctica 420
+Ddut Dumont-d'Urville Time Antarctica 600
+E Echo Time Zone Military 300
+Easst Easter Island Summer Time Pacific -300
+Eadt Easter Island Daylight Time Pacific -300
+East Easter Island Standard Time Pacific -360
+Eat	Eastern Africa Time AfricaIndianOcean 180
+Ect	Ecuador Time South America -300
+Edt	Eastern Daylight Time NorthAmericaCaribbean -240
+Edst Eastern Daylight Savings Time NorthAmericaCaribbean -240
+Naedt North American Eastern Daylight Time NorthAmericaCaribbean -240
+Hae Heure Avancée de l'Est (French) NorthAmericaCaribbean -240
+Eest Eastern European Summer Time EuropeAsia 180
+Eedt Eastern European Daylight Time EuropeAsia 180
+Oesz Osteuropäische Sommerzeit (German) EuropeAsia 180
+Eet	Eastern European Time EuropeAsiaAfrica 120
+Oez Osteuropäische Zeit (German) EuropeAsiaAfrica 120
+Egst Eastern Greenland Summer Time 0
+Egt Eastern Greenland Time NorthAmerica -60
+Est	Eastern Standard Time NorthAmericaCaribbeanCentralAmerica -300
+Naest North American Eastern Standard Time NorthAmericaCaribbeanCentralAmerica -300
+Hne Heure Normale de l'Est (French) NorthAmericaCaribbeanCentralAmerica -300
+Et Eastern Time NorthAmericaCaribbean -240
+F Foxtrot Time Zone Military 360
+Fet	Further-Eastern European Time Europe 180
+Fjst Fiji Summer Time Pacific 780
+Fjdt Fiji Daylight Time Pacific 780
+Fjt	Fiji Time Pacific 720
+Fkdt Falkland Island Daylight Time SouthAmerica -180
+Fkt	Falkland Island Time SouthAmerica -240
+Fkst Falkland Island Standard Time SouthAmerica -240
+Fnt	Fernando de Noronha Time SouthAmerica -120
+G Golf Time Zone Military 420
+Galt Galapagos Time Pacific -360
+Gamt Gambier Islands Time Pacific -540
+Get	Georgia Standard Time Asia 240
+Gft	French Guiana Time	SouthAmerica -180
+Gilt Gilbert Island Time Pacific 720
+Gmt	Greenwich Mean Time AfricaNorth AmericaAntarctica 0
+Utc Coordinated Universal Time AfricaNorth AmericaAntarctica 0
+Gt Greenwich Time Europe AfricaNorth AmericaAntarctica 0
+Gst	Gulf Standard Time Asia 240
+Gyt	Guyana Time	South America -240
+H Hotel Time Zone Military 480
+Hadt Hawaii-Aleutian Daylight Time NorthAmerica -540
+Hdt Hawaii Daylight Time NorthAmerica -540
+Hast Hawaii-Aleutian Standard Time Pacific -600
+Hst Hawaii Standard Time North America Pacific -600
+Hkt	Hong Kong Time Asia 480
+Hovst Hovd Summer Time Asia 480
+Hovdt Hovd Daylight Time Asia 480
+Hovdst Hovd Daylight Saving Time Asia 480
+Hovt Hovd Time Asia 420
+I India Time Zone Military 540
+Ict	Indochina Time Asia 420
+Idt	Israel Daylight Time Asia 180
+Iot	Indian Chagos Time Indian Ocean 360
+Irdt Iran Daylight Time Asia 270
+Irkst Irkutsk Summer Time Asia 540
+Irkt Irkutsk Time Asia 480
+Irst Iran Standard Time Asia 210
+It Iran Time Asia 210
+It India Time Asia 330
+Ist	Irish Standard Time Europe 60
+Jst	Japan Standard Time	Asia 540
+K Kilo Time Zone Military 600
+Kgt	Kyrgyzstan Time	Asia 360
+Kost Kosrae Time Pacific 660
+Krast Krasnoyarsk Summer Time Asia 480
+Krat Krasnoyarsk Time Asia 420
+Kst Korean Standard Time Asia 540
+Kt Korea Time Asia 540
+Kuyt Kuybyshev Time Europe 240
+Samst Samara Summer Time Europe 240
+L Lima Time Zone Military 660
+Lhdt Lord Howe Daylight Time Australia 660
+Lhst Lord Howe Standard Time Australia 630
+Lint Line Islands Time Pacific 840
+M Mike Time Zone Military 720
+Magst Magadan Summer Time Asia 720
+Magt Magadan Time Asia 660
+Mart Marquesas Time	Pacific -570
+Mawt Mawson Time Antarctica 300
+Mdt	Mountain Daylight Time NorthAmerica -360
+Mdst Mountain Daylight Saving Time NorthAmerica -360
+Namdt North American Mountain Daylight Time NorthAmerica -360
+Har Heure Avancée des Rocheuses (French) NorthAmerica -360
+Mht	Marshall Islands Time Pacific 720
+Mmt	Myanmar Time Asia 390
+Msd	Moscow Daylight Time Euope 240
+Moscow Summer Time Europe 240
+Msk	Moscow Standard Time EuropeAsia 180
+Mck Moscow Time EuropeAsia 180
+Namst North American Mountain Standard Time NorthAmerica -420
+Hnr Heure Normale des Rocheuses (French) NorthAmerica -420
+Mt Mountain Time NorthAmerica -360
+Mut	Mauritius Time Africa 240
+Mvt	Maldives Time Asia 300
+Myt	Malaysia Time Asia 480
+Mst Malaysian Standard Time Asia 480
+N November Time Zone Military -60
+Nct	New Caledonia Time Pacific 660
+Ndt	Newfoundland Daylight Time NorthAmerica -150
+Hat Heure Avancée de Terre-Neuve (French) NorthAmerica -150
+Nft	Norfolk Time Australia 660
+Novst Novosibirsk Summer Time Asia 420
+Omsst Omsk Summer Time Asia 420
+Novt Novosibirsk Time Asia 420
+Omst Omsk Standard Time Asia 360
+Npt	Nepal Time Asia 345
+Nrt	Nauru Time Pacific 720
+Nst	Newfoundland Standard Time NorthAmerica -210
+Hnt Heure Normale de Terre-Neuve (French) NorthAmerica -210
+Nut	Niue Time Pacific -660
+Nzdt New Zealand Daylight Time PacificAntarctica 780
+Nzst New Zealand Standard Time PacificAntarctica 720
+O Oscar Time Zone Military -120
+Novt Novosibirsk Time Asia 360
+Orat Oral Time Asia 300
+P Papa Time Zone Military -180
+Pdt Pacific Daylight Time NorthAmerica -420
+Pdst Pacific Daylight Saving Time NorthAmerica -420
+Napdt North American Pacific Daylight Time NorthAmerica -420
+Hap Heure Avancée du Pacifique (French) NorthAmerica -420
+Pet	Peru Time SouthAmerica -300
+Petst Kamchatka Summer Time	Asia 720
+Pett Kamchatka Time Asia 720
+Pgt	Papua New Guinea Time Pacific 600
+Phot Phoenix Island Time Pacific 780
+Pht	Philippine Time Asia 480
+Pkt	Pakistan Standard Time Asia 300
+Pmdt Pierre & Miquelon Daylight Time NorthAmerica -120
+Pmst Pierre & Miquelon Standard Time NorthAmerica -180
+Pont Pohnpei Standard Time Pacific 660
+Pt Pacific Time NorthAmerica -480
+Napst North American Pacific Standard Time NorthAmerica -480
+Hnp Heure Normale du Pacifique (French) NorthAmerica -480
+Pst	Pitcairn Standard Time Pacific -480
+Pwt	Palau Time Pacific 540
+Pyst Paraguay Summer Time SouthAmerica -180
+Pyt	Paraguay Time SouthAmerica -240
+Pyt	Pyongyang Time Asia 510
+Q Quebec Time Zone Military -240
+Qyzt Qyzylorda Time Asia 360
+R Romeo Time Zone Military -300
+Ret	Reunion Time Africa 240
+Rott Rothera Time Antarctica -180
+S Sierra Time Zone Military -360
+Sakt Sakhalin Time Asia 660
+Samt Samara Standard Time Europe 240
+Sast South African Standard Time Africa 120
+Sbt Solomon Islands Time Pacific 660
+Sct	Seychelles Time	Africa 240
+Sgt	Singapore Time Asia 480
+Sret Srednekolymsk Time Asia 660
+Srt	Suriname Time SouthAmerica -180
+Sst	Samoa Standard Time	Pacific -660
+Syot Syowa Time Antarctica 180
+T Tango Time Zone Military -420
+Taht Tahiti Time Pacific -600
+Tft	French Southern and Antarctic Time IndianOcean 300
+Kit Kerguelen (Islands) Time IndianOcean 300
+Tjt Tajikistan Time Asia 300
+Tkt Tokelau Time Pacific 780
+Tlt East Timor Time Asia 540
+Tmt Turkmenistan Time Asia 300
+Tot Tonga Time Pacific 780
+Tvt	Tuvalu Time	Pacific 720
+U Uniform Time Zone Military -480
+Ulast Ulaanbaatar Summer Time Asia 540
+Ulat Ulaanbaatar Time Asia 480
+Utc	Coordinated Universal Time Worldwide 0
+Uyst Uruguay Summer Time SouthAmerica -120
+Uyt	Uruguay Time SouthAmerica -180
+Uzt	Uzbekistan Time Asia 300
+V Victor Time Zone Military -540
+Vet	Venezuelan Standard Time SouthAmerica -240
+Hlv Hora Legal de Venezuela (Spanish) SouthAmerica -240
+Vlast Vladivostok Summer Time Asia 660
+Vlat Vladivostok Time Asia 600
+Vost Vostok Time Antarctica 360
+Vut	Vanuatu Time Pacific 660
+Efate Efate Time Pacific 660
+W Whiskey Time Zone Military -600
+Wakt Wake Time Pacific 720
+Warst Western Argentine Summer Time SouthAmerica -180
+Wast West Africa Summer Time Africa 120
+Wat	West Africa Time Africa 60
+West Western European Summer Time EuropeAfrica 60
+Wedt Western European Daylight Time EuropeAfrica 60
+Wesz Westeuropäische Sommerzeit (German) EuropeAfrica 60
+Wet	Western European Time EuropeAfrica 0
+Gmt Greenwich Mean Time EuropeAfrica 0
+Wez Westeuropäische Zeit (German) EuropeAfrica 0
+Wft Wallis and Futuna Time Pacific 720
+Wgst Western Greenland Summer Time NorthAmerica -120
+Wgt Western Greenland Time NorthAmerica -180
+Wib	Western Indonesian Time Asia 420
+Wit	Eastern Indonesian Time Asia 540
+Wita Central Indonesian Asia 480
+Wst	West Samoa Time Pacific 780
+St Samoa Time Pacific 780
+Wt Western Sahara Standard Time Africa 0
+X X-ray Time Zone Military -660
+Y Yankee Time Zone Military -720
+Yakst Yakutsk Summer Time Asia 600
+Yakt Yakutsk Time Asia 540
+Yapt Yap Time Pacific 600
+Yekst Yekaterinburg Summer Time Asia 360
+Yekt Yekaterinburg Time Asia 300
+Z Zulu Time Zone Military 0

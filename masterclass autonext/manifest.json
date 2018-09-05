@@ -1,0 +1,22 @@
+{
+	"manifest_version":2,
+	
+	"name":"masterclass autonext",
+	"description":"automatically get next video",
+	"version":"1.0",
+	"icons":{
+		"64":"icon.png"
+	},
+	"content_scripts":[
+		{
+			"matches":["*://*.masterclass.com/*"],
+			"js":["myScript.js"]
+		}
+	],
+	"browser_action": {
+		"default_title": "masterclass autonext video"
+	},
+	"permissions": [
+		"activeTab"
+	]
+}

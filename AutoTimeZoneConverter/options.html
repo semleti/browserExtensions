@@ -1,0 +1,159 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title>AutoTimeConverter Options</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="options.css">
+    </head>
+    <body>
+        <form id="MainForm">
+            <select name="TargetTimeZone">
+                <option value="abc">abs - 2:00</option>
+                <option value="efg">efg - 3:30</option>
+                <option value="utc">utc - 0:00</option>
+                <option value="jki">jki - 2:10</option>
+            </select>
+            <hr>
+            <input id="WhiteList" type="radio" name="BlackWhiteList" value="WhiteList"><label for="WhiteList">WhiteList</label><br>
+            <input id="BlackList" type="radio" name="BlackWhiteList" value="BlackList"><label for="BlackList">BlackList</label><br>
+            <details>
+                <summary>Show List</summary>
+                <div class="details-body">
+                    <table id="UrlList" class="AutoList AutoSaveLoad">
+                        <tbody>
+                            <tr>
+                                <td><input type="url" placeholder="url"></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </details>
+            <hr>
+
+            <input id="AmPmto24_1" type="radio" name="AmPm24Behaviour" value="AmPmto24"><label for="AmPmto24_1">AmPm to 24:00</label><br>
+            <input id="AmPmto24_2" type="radio" name="AmPm24Behaviour" value="Ignore"><label for="AmPmto24_2">Ignore</label><br>
+            <input id="AmPmto24_3" type="radio" name="AmPm24Behaviour" value="24toAmPm"><label for="AmPmto24_3">24:00 to AmPm</label><br>
+            <hr>
+            <details>
+                <summary>Edit the Time Zones</summary>
+                <div class="details-body">
+                    <table id="TimeZones" class="AutoList AutoSaveLoad">
+                        <thead>
+                            <tr>
+                                <th>Abreviation</th>
+                                <th>Time Diff (minutes)</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td><input type="text" class="Abrv"></td>
+                                <td><input type="number" class="Diff"></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </details>
+            <hr>
+            <details>
+                <summary>Advanced</summary>
+                <div class="details-body">
+                    <details>
+                        <summary>24:00 RegEx</summary>
+                        <div class="details-body">
+                            <table id="24:00RegEx" class="AutoList AutoSaveLoad">
+                                <thead>
+                                    <tr>
+                                        <th>The RegEx</th>
+                                        <th>The Group Index for the hours</th>
+                                        <th>The Group Index for the minutes</th>
+                                    <tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td><input type="text" class="regEx24"></td>
+                                        <td><input type="text" class="regEx24Hours" pattern="[1-9][0-9]*(,[1-9][0-9]*)*"></td>
+                                        <td><input type="text" class="regEx24Minutes" pattern="[1-9][0-9]*(,[1-9][0-9]*)*"></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </details>
+                    <details>
+                        <summary>AmPm RegEx</summary>
+                        <div class="details-body">
+                            <table id="AmPmRegEx" style="table-layout:fixed" class="AutoList AutoSaveLoad">
+                                <thead>
+                                    <tr>
+                                        <th style="width:170px;">The RegEx</th>
+                                        <th style="width:170px;">Hours Group Index</th>
+                                        <th style="width:170px;">Minutes Group Index</th>
+                                        <th style="width:170px;">AM/PM Group Index</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <th><input type="text" class="regExAmPm"></th>
+                                        <th><input type="text" class="regExAmPmHours" pattern="[1-9][0-9]*(,[1-9][0-9]*)*"></th>
+                                        <th><input type="text" class="regExAmPmMinutes" pattern="[1-9][0-9]*(,[1-9][0-9]*)*"></th>
+                                        <th><input type="text" class="regExAmPmAmPm" pattern="[1-9][0-9]*(,[1-9][0-9]*)*"></th>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </details>
+                    <details>
+                        <summary>TimeZone RegEx</summary>
+                        <div class="details-body">
+                            <table id="TimeZoneRegEx" class="AutoList AutoSaveLoad">
+                                <thead>
+                                    <tr>
+                                        <th>The RegEx</th>
+                                        <th>Hours Group Index</th>
+                                        <th>Minutes Group Index</th>
+                                        <th>Time Zone Group Index</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td><input type="text" class="regExTimeZone"></td>
+                                        <td><input type="text" class="regExTimeZoneHours" pattern="[1-9][0-9]*(,[1-9][0-9]*)*"></td>
+                                        <td><input type="text" class="regExTimeZoneMinutes" pattern="[1-9][0-9]*(,[1-9][0-9]*)*"></td>
+                                        <td><input type="text" class="regExTimeZoneZone" pattern="[1-9][0-9]*(,[1-9][0-9]*)*"></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </details>
+                    <details>
+                        <summary>Output Formatting</summary>
+                        <div class="details-body">
+                            <table>
+                                <tr>
+                                    <th class="align-left"><label for="OutputFormat24">The 24:00 output {0}:hours {1}:minutes</label></th>
+                                    <th><input id="OutputFormat24" type="text"></th>
+                                </tr>
+                                <tr>
+                                    <th class="align-left"><label for="OutputFormatAmPm">The AmPm output {0}:hours {1}:minutes {2}:AmPm</label></th>
+                                    <th><input id="OutputFormatAmPm" type="text"></th>
+                                </tr>
+                                <tr>
+                                    <th class="align-left"><label for="OutputFormatTimeZone">The Time Zone output {0}:hours {1}:minutes {2}:zone</label></th>
+                                    <th><input id="OutputFormatTimeZone" type="text"></th>
+                                </tr>
+                            </table>
+                        </div>
+                    </details>
+                </div>
+            </details>
+
+            <input id="save" type="button" value="Save">
+            <input id="submit" type="submit" value="Submit">
+            <input id="cancel" type="button" value="Cancel">
+            <input id="defaults" type="button" value="Load Defaults">
+        </form>
+        <script src="AutoList.js"></script>
+        <script src="AutoSaveLoad.js"></script>
+        <script src="options.js"></script>
+    </body>
+</html>
